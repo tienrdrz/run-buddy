@@ -12,3 +12,5 @@ https://tienrdrz.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Etienne
+
+# Run Buddy Inc. 
