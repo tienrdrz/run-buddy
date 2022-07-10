@@ -1,23 +1,16 @@
-# I love basia
- 
-  ## Description
-  I love basia
+# run-buddy
 
-  ## Installation
-  Loving Basia
+## Purpose
+A website the offers fitness training services
 
-  ## Usage
-  cbt
+## Built With
+* Html
+* CSS
 
-  ## Credits
-  basia
+## Website
+https://tienrdrz.github.io/run-buddy/
 
-  ## Features
-  basaia
-  
-  ## License
-  .NET
+## Contribution
+Made with ❤️ by Etienne
 
-  ## Additional Info
-    - Email: vasia
-    - Github: "https://github.com/tiendrz "
+### ©️2019 Run Buddy, Inc 
