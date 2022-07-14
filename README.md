@@ -14,4 +14,4 @@ https://tienrdrz.github.io/run-buddy/
 Made with ❤️ by Etienne
 
 ### ©️2019 Run Buddy, Inc 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
+  [![License](https://img.shields.io/badge/License-No_License-blue.svg)](https://opensource.org/licenses/No_License)
