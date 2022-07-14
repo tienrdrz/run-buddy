@@ -1,16 +1,32 @@
-# run-buddy
+# sfdfgsdg
+ 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Features](#features)
+- [License](#license)
+- [Additional Info](#email)
 
-## Purpose
-A website the offers fitness training services
+  ## Description
+  sfdgsdfgsfdg
 
-## Built With
-* Html
-* CSS
+  ## Installation
+  sfdgsfdgsdfg
 
-## Website
-https://tienrdrz.github.io/run-buddy/
+  ## Usage
+  sdfgsfdgsf
 
-## Contribution
-Made with ❤️ by Etienne
+  ## Credits
+  fsdgsfdg
 
-### ©️2019 Run Buddy, Inc 
+  ## Features
+  sfdgsfdg
+  
+  ## License
+  Babel
+
+  ## Additional Info
+    - Email: sdfgsdg
+    - Github: "https://github.com/sdfgsdfg"
